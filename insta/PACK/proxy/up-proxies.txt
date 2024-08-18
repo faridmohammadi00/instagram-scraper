@@ -1,0 +1,4 @@
+http://<username>:<password>@<ip or server name>:<port>
+http://<username>:<password>@<ip or server name>:<port>
+http://<username>:<password>@<ip or server name>:<port>
+http://<username>:<password>@<ip or server name>:<port>
